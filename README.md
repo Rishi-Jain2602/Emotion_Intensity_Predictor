@@ -2,7 +2,7 @@
 
 The Emotion Intensity Predictor is a Natural Language Processing (NLP) project aimed at predicting the intensity of emotions expressed in textual data. By leveraging advanced NLP techniques, the model aims to provide insights into the strength or magnitude of various emotions conveyed in the text.
 
-### **By - Rishi Jain , Codalab Username : Rishi_jain**
+### **By - Rishi Jain , Codalab Username : Rishi_Jain**
 
 ***
 
