@@ -51,6 +51,7 @@ This code snippet demonstrates how to use the SentenceTransformer library to gen
 
 #### Library Used:
 [Sentence Transformers(Hugging Face)](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
+
 [Sentence Transformers(Github)](https://github.com/UKPLab/sentence-transformers)
 
 #### Usage:
@@ -133,3 +134,8 @@ This Sequential model consists of several layers, each serving a specific purpos
 ![r2](https://github.com/Rishi-Jain2602/Emotion_Intensity_Predictor/assets/118871883/e11dbba9-095b-414f-96ad-b9ace62be849)
 
 *It's accuracy was coming out ot be 84%*
+
+1.	Precision is defined as the ratio of true positives to the sum of true and false positives.
+2.	Recall is defined as the ratio of true positives to the sum of true positives and false negatives.
+3.	The F1 is the weighted harmonic mean of precision and recall. The closer the value of the F1 score is to 1.0, the better the expected performance of the model is.
+4.	Support is the number of actual occurrences of the class in the dataset. It doesn’t vary between models, it just diagnoses the performance evaluation process.
