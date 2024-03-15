@@ -39,6 +39,11 @@ pip install -r requirements.txt
 
 ## Machine Learning Model (Model1)
 
+### Data Visualization
+
+![dataset vis](https://github.com/Rishi-Jain2602/Emotion_Intensity_Predictor/assets/118871883/d78fad81-cf22-48d8-a9f3-faa103e3afd9)
+
+
 ### Data Cleaning
 - Text is converted to lowercase
 - Replace certain special characters with their string equivalent 
@@ -86,6 +91,11 @@ pip install -U sentence-transformers
 
 ***
 ## Deep Learning (Model2)
+
+### Data Visualization
+
+![dataset vis](https://github.com/Rishi-Jain2602/Emotion_Intensity_Predictor/assets/118871883/d78fad81-cf22-48d8-a9f3-faa103e3afd9)
+
 
 ### Data Cleaning
 - Text is converted to lowercase
