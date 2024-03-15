@@ -1,5 +1,7 @@
 # Emotion_Intensity_Predictor
 
+**By - Rishi Jain**
+
 ***
 
 ## Requirements
@@ -139,3 +141,10 @@ This Sequential model consists of several layers, each serving a specific purpos
 2.	Recall is defined as the ratio of true positives to the sum of true positives and false negatives.
 3.	The F1 is the weighted harmonic mean of precision and recall. The closer the value of the F1 score is to 1.0, the better the expected performance of the model is.
 4.	Support is the number of actual occurrences of the class in the dataset. It doesn’t vary between models, it just diagnoses the performance evaluation process.
+
+
+## Note
+1. Make sure you have Python 3.x installed
+2. It is recommended to use a virtual environment to avoid conflict with other projects.
+3. For deep learning, a laptop with a powerful GPU, a high-performance CPU, at least 8GB of RAM, a fast SSD, and an efficient cooling system is recommended.
+4. If you encounter any issue during installation or usage please contact rishijainai262003@gmail.com or rj1016743@gmail.com
