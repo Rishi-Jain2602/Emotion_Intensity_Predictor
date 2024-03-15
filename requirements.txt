@@ -1,1 +1,8 @@
- Numpy, sklearn, tensorflow , pandas , matplotlib , seaborn , nltk , SentenceTransformer
+ Numpy
+ sklearn 
+ tensorflow 
+ pandas 
+ matplotlib 
+ seaborn 
+ nltk 
+ SentenceTransformer
