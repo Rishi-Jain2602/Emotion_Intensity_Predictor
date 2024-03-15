@@ -98,8 +98,6 @@ pip install -U sentence-transformers
 
 
 ### Data Cleaning
-- Text is converted to lowercase
-- Replace certain special characters with their string equivalent and Decontracting words
 - Removing HTML tags and URLs
 - Removing Stopwords
 
