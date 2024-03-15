@@ -36,17 +36,12 @@ pip install -r requirements.txt
 
 ## A) Machine Learning Model (Model1)
 
-### Data Visualization
 
-![dataset vis](https://github.com/Rishi-Jain2602/Emotion_Intensity_Predictor/assets/118871883/d78fad81-cf22-48d8-a9f3-faa103e3afd9)
-
-  
 ### Sentence Embeddings using Sentence Transformers
 
 #### Library Used:
 [Sentence Transformers(Hugging Face)](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
 
-[Sentence Transformers(Github)](https://github.com/UKPLab/sentence-transformers)
 
 
 ### Model Used
@@ -71,10 +66,6 @@ pip install -r requirements.txt
 
 ***
 ## B) Deep Learning (Model2)
-
-### Data Visualization
-
-![dataset vis](https://github.com/Rishi-Jain2602/Emotion_Intensity_Predictor/assets/118871883/d78fad81-cf22-48d8-a9f3-faa103e3afd9)
 
 
 #### Classification Report 
