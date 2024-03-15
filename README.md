@@ -1,6 +1,8 @@
 # Emotion_Intensity_Predictor
 
-**By - Rishi Jain**
+The Emotion Intensity Predictor is a Natural Language Processing (NLP) project aimed at predicting the intensity of emotions expressed in textual data. By leveraging advanced NLP techniques, the model aims to provide insights into the strength or magnitude of various emotions conveyed in the text.
+
+### **By - Rishi Jain , Codalab Username : Rishi_jain**
 
 ***
 
@@ -142,6 +144,7 @@ This Sequential model consists of several layers, each serving a specific purpos
 3.	The F1 is the weighted harmonic mean of precision and recall. The closer the value of the F1 score is to 1.0, the better the expected performance of the model is.
 4.	Support is the number of actual occurrences of the class in the dataset. It doesn’t vary between models, it just diagnoses the performance evaluation process.
 
+****
 
 ## Note
 1. Make sure you have Python 3.x installed
