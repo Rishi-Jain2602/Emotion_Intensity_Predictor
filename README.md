@@ -127,3 +127,9 @@ This Sequential model consists of several layers, each serving a specific purpos
 
 #### Model Summary:
 - The `model.summary()` function displays a summary of the model architecture, providing insights into the structure and parameters of each layer.
+
+#### Classification Report 
+
+![r2](https://github.com/Rishi-Jain2602/Emotion_Intensity_Predictor/assets/118871883/e11dbba9-095b-414f-96ad-b9ace62be849)
+
+*It's accuracy was coming out ot be 84%*
