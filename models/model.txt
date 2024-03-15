@@ -1,1 +1,3 @@
-
+### Models
+- Model1.ipynb = Purely Statistical Model 
+- Model2.ipynb = Deep Learning Model
